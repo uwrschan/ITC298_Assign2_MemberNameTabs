@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+ <!-- WANT TO ENSURE THIS WORKS, BRUH -->
+ 
  <!-- general -->
- 	<string name="github_test">Make Sure this works</string>
-    <string name="app_name">EffectiveNavigation</string>
+    <string name="app_name">projectMaps</string>
     <string name="demo_collection">Settings</string>
 
 <!-- login register -->
